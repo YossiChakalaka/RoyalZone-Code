@@ -1,0 +1,93 @@
+name: RoyalZone
+main: me.or.royals.Main
+version: 0.1
+depend: [BarAPI]
+
+description: >
+            RoyalZone Main Plugin
+commands:
+
+   spy:
+     description: Main Command
+   1v12:
+     description: Main Command
+   a:
+     description: Main Command
+   stopevents:
+     description: Main Command
+   join:
+     description: Main Command
+   stats:
+     description: Main Command
+   me:
+     description: Main Command
+   event:
+     description: Main Command
+   check:
+     description: Main Command
+   cc:
+     description: Main Command
+   help:
+     description: Main Command
+   tphere:
+     description: Main Command
+   tp:
+     description: Main Command
+   inv:
+     description: Main Command   
+   fly:
+     description: Main Command  
+   vanish:
+     description: Main Command
+   broadcast:
+     description: Main Command
+   coins:
+     description: Main Command
+   addpermissionsa:
+     description: Main Command   
+   helpme:
+     description: Main Command  
+   addpermissions:
+     description: Main Command
+   shop:
+     description: Main Command  
+   nick:
+     description: Main Command    
+   delwarp:
+     description: Main Command
+   royalgive:
+     description: Main Command  
+   beled:
+     description: Main Command  
+   setwarp:
+     description: Main Command  
+   unban:
+     description: Main Command
+   kick:
+     description: Main Command  
+   mute:
+     description: Main Command    
+   report:
+     description: Main Command    
+   team:
+     description: Main Command    
+   1v1:
+     description: Main Command      
+   warp:
+     description: Main Command
+   setspawn:
+     description: Main Command      
+   npc:
+     description: Main Command        
+   spawn:
+     description: Main Command       
+   ban:
+     description: Main Command          
+   setvip:
+     description: Main Command 
+   removepermissions:
+     description: Main Command   
+ 
+   
+
+     
